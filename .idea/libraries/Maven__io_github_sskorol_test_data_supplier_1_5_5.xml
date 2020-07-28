@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.sskorol:test-data-supplier:1.5.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/sskorol/test-data-supplier/1.5.5/test-data-supplier-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/sskorol/test-data-supplier/1.5.5/test-data-supplier-1.5.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/sskorol/test-data-supplier/1.5.5/test-data-supplier-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
